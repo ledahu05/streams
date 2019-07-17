@@ -6,6 +6,7 @@ ReactJS application with the following educational purposes:
 - login/logout with google oauth
 - form management with redux
 - CRUD operation with React/Redux
+- Error handling
 
 The project is divided in three parts:
 - a streaming server
