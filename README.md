@@ -10,4 +10,4 @@ ReactJS application with the following educational purposes:
 The project is divided in three parts:
 - a streaming server
 - a backend server who has the knowledge about what is currently streamed
-- a webapp used to interact with channels. 
+- a webapp used to allow anonymous and logged in users to interact with channels. 
